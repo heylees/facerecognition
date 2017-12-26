@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+#author：leehongbo
+#STU-ID:2017311020115
 import cv2
 import face_recognition
 video_capture = cv2.VideoCapture(0)
